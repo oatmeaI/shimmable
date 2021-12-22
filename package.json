@@ -1,0 +1,11 @@
+{
+    "name": "shimmable",
+    "version": "0.0.1",
+    "description": "Shims for Scriptable's standard library",
+    "main": "shimmable.js",
+    "author": "Keenan Villani-Holland",
+    "license": "MIT",
+    "bin": {
+        "shimmable": "./bin/shimmable"
+    }
+}
